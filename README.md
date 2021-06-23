@@ -4,6 +4,10 @@ Given an image or a video, the goal of object detection is to recognize and loca
 
 There is a variety of techniques to perform object detection. Popular approaches are deep learning–based approaches using convolutional neural networks (CNNs), such as R-CNN Model Family (R-CNN, Fast R-CNN, Faster R-CNN) and YOLO Model Family (YOLO, YOLOv2 or YOLO9000 and YOLOv3).
 
+![alt text](https://github.com/buropas/Object_Detection/blob/main/Obj_detect.png?raw=true)
+
+
+
 Folder content:
 - Image Object Detection using YOLOv3 with pre-trained weights (Jupyter Notebook)
 - Video Object Detection using YOLOv3 with pre-trained weights (Jupyter Notebook)
@@ -11,3 +15,4 @@ Folder content:
 - coco.names (file with 80 object classes that the model will be able to detect)
 - test.mp4 (test video to perform object detection)
 - output.avi (output of object detection task)
+
