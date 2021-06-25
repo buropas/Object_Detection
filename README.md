@@ -1,4 +1,4 @@
-# Object_Detection
+# Object_Detection and Tracking
 Object Detection is a computer vision technique for locating instances of objects in images or videos. 
 Given an image or a video, the goal of object detection is to recognize and locate objects of interest.
 
