@@ -10,7 +10,7 @@ OBJECT TRACKING is the task of taking an initial set of object detections, creat
 
 
 
-Folder content:
+## Folder content:
 - Image Object Detection using YOLOv3 with pre-trained weights (Jupyter Notebook)
 - Video Object Detection using YOLOv3 with pre-trained weights (Jupyter Notebook)
 - Video Object Detection and Tracking using YOLOv3 with pre-trained weights (Jupyter Notebook)
@@ -22,3 +22,7 @@ Folder content:
 - obj_detect.png (output image from object detection task)
 - centroidtracker.py (file needed to perform object tracking)
 
+## Technologies   
+Object Detection Algorithm: YOLOv3   
+Object Tracking Algorithm: Centroid Tracker   
+Language: Python
