@@ -24,5 +24,6 @@ OBJECT TRACKING is the task of taking an initial set of object detections, creat
 
 ## Technologies   
 Object Detection Algorithm: YOLOv3   
-Object Tracking Algorithm: Centroid Tracker   
+Object Tracking Algorithm: Centroid Tracker      
+Libraries: OpenCV, Numpy, Matplotlib   
 Language: Python
