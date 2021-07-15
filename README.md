@@ -11,9 +11,9 @@ OBJECT TRACKING is the task of taking an initial set of object detections, creat
 
 
 ## Folder content:
-- Image Object Detection using YOLOv3 with pre-trained weights (Jupyter Notebook)
-- Video Object Detection using YOLOv3 with pre-trained weights (Jupyter Notebook)
-- Video Object Detection and Tracking using YOLOv3 with pre-trained weights (Jupyter Notebook)
+- Image Object Detection using YOLOv3 with pre-trained weights (Notebook)
+- Video Object Detection using YOLOv3 with pre-trained weights (Notebook)
+- Video Object Detection and Tracking using YOLOv3 with pre-trained weights (Notebook)
 - yolov3.cfg (neural network model configuration file)
 - coco.names (file with 80 object classes that the model will be able to detect)
 - test.mp4 (test video to perform object detection)
